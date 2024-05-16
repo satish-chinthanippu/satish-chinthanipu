@@ -1,4 +1,4 @@
-# Welcome to Chinthanippu Satish's GitHub!
+# Welcome to Satish Chinthanippu's GitHub!
 
 ## Introduction
 Hey there!👋 Welcome to my GitHub profile 🙏. I'm Satish, a Software Engineer 👨‍💻 with a passion for building scalable and efficient applications. 
